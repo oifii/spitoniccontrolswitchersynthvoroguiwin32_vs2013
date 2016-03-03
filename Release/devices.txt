@@ -1,0 +1,15 @@
+id=0, name=Microsoft Sound Mapper - Input
+id=1, name=Microphone (Fast Track)
+id=2, name=Desktop Microphone (HD-5000 - M
+id=3, name=Microsoft Sound Mapper - Output
+id=4, name=Speakers (Fast Track)
+id=5, name=Primary Sound Capture Driver
+id=6, name=Microphone (Fast Track)
+id=7, name=Desktop Microphone (HD-5000 - Microsoft LifeCam.)
+id=8, name=Primary Sound Driver
+id=9, name=Speakers (Fast Track)
+id=10, name=Speakers (Fast Track)
+id=11, name=Microphone (Fast Track)
+id=12, name=Desktop Microphone (HD-5000 - Microsoft LifeCam.)
+id=13, name=Fast Track
+id=14, name=HD-5000 - Microsoft LifeCam.

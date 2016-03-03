@@ -1,0 +1,5 @@
+parametername	parametervalue	parameterxposition	parameteryposition
+bpm	798.232056	794.140015	545.040588
+clickVol	0.566667	270.276276	809.353027
+freq	50.000000	269.399170	544.515198
+addtlFM	5.018315	1409.514771	869.709106
